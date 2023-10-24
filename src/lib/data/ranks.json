@@ -1,0 +1,85 @@
+{
+    "players": [
+      {
+        "id": "player1",
+        "name": "John Doe",
+        "score": 100,
+        "ranking": 1,
+        "matchesPlayed": 15,
+        "team": "team1"
+      },
+      {
+        "id": "player2",
+        "name": "Jane Smith",
+        "score": 95,
+        "ranking": 2,
+        "matchesPlayed": 14,
+        "team": "team2"
+      },
+      {
+        "id": "player3",
+        "name": "Alice Johnson",
+        "score": 93,
+        "ranking": 3,
+        "matchesPlayed": 15,
+        "team": "team1"
+      },
+      {
+        "id": "player4",
+        "name": "Bob White",
+        "score": 89,
+        "ranking": 4,
+        "matchesPlayed": 13,
+        "team": "team3"
+      },
+      {
+        "id": "player5",
+        "name": "Charlie Brown",
+        "score": 85,
+        "ranking": 5,
+        "matchesPlayed": 14,
+        "team": "team2"
+      },
+      {
+        "id": "player6",
+        "name": "Daisy Miller",
+        "score": 80,
+        "ranking": 6,
+        "matchesPlayed": 15,
+        "team": "team4"
+      },
+      {
+        "id": "player7",
+        "name": "Edward Stone",
+        "score": 78,
+        "ranking": 7,
+        "matchesPlayed": 13,
+        "team": "team3"
+      },
+      {
+        "id": "player8",
+        "name": "Fiona Green",
+        "score": 76,
+        "ranking": 8,
+        "matchesPlayed": 14,
+        "team": "team4"
+      },
+      {
+        "id": "player9",
+        "name": "George Hall",
+        "score": 72,
+        "ranking": 9,
+        "matchesPlayed": 15,
+        "team": "team1"
+      },
+      {
+        "id": "player10",
+        "name": "Hannah Snow",
+        "score": 70,
+        "ranking": 10,
+        "matchesPlayed": 12,
+        "team": "team2"
+      }
+    ]
+  }
+  

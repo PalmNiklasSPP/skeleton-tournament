@@ -1,0 +1,110 @@
+{
+    "teams": [
+      {
+        "id": "team1",
+        "name": "Eagles",
+        "logo": "https://example.com/eagles.jpg",
+        "description": "Founded in 2010, the Eagles have a rich history of competitive spirit and fair play.",
+        "performance": {
+          "matchesPlayed": 10,
+          "wins": 6,
+          "losses": 4,
+          "points": 18
+        },
+        "details": {
+          "members": [
+            "player1",
+            "player2",
+            "player3"
+          ]
+        },
+        "status": "Active",
+        "history": "Champions in 2021"
+      },
+      {
+        "id": "team2",
+        "name": "Sharks",
+        "logo": "https://example.com/sharks.jpg",
+        "description": "The Sharks are known for their aggressive strategies and quick reflexes.",
+        "performance": {
+          "matchesPlayed": 10,
+          "wins": 5,
+          "losses": 5,
+          "points": 15
+        },
+        "details": {
+          "members": [
+            "player4",
+            "player5",
+            "player6"
+          ]
+        },
+        "status": "Active",
+        "history": "Runner-up in 2022"
+      },
+      {
+        "id": "team3",
+        "name": "Panthers",
+        "logo": "https://example.com/panthers.jpg",
+        "description": "Panthers pride themselves on teamwork and coordination, often outsmarting their opponents.",
+        "performance": {
+          "matchesPlayed": 10,
+          "wins": 7,
+          "losses": 3,
+          "points": 21
+        },
+        "details": {
+          "members": [
+            "player7",
+            "player8",
+            "player9"
+          ]
+        },
+        "status": "Active",
+        "history": "Semi-finalists in 2021"
+      },
+      {
+        "id": "team4",
+        "name": "Wolves",
+        "logo": "https://example.com/wolves.jpg",
+        "description": "While newer to the scene, the Wolves have shown promise and tenacity in their matches.",
+        "performance": {
+          "matchesPlayed": 10,
+          "wins": 3,
+          "losses": 7,
+          "points": 9
+        },
+        "details": {
+          "members": [
+            "player10",
+            "player11",
+            "player12"
+          ]
+        },
+        "status": "Active",
+        "history": ""
+      },
+      {
+        "id": "team5",
+        "name": "Falcons",
+        "logo": "https://example.com/falcons.jpg",
+        "description": "The Falcons soar high with their unmatched skills and precision plays.",
+        "performance": {
+          "matchesPlayed": 10,
+          "wins": 8,
+          "losses": 2,
+          "points": 24
+        },
+        "details": {
+          "members": [
+            "player13",
+            "player14",
+            "player15"
+          ]
+        },
+        "status": "Active",
+        "history": "Quarter-finalists in 2022"
+      }
+    ]
+  }
+  

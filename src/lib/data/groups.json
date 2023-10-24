@@ -1,0 +1,128 @@
+{
+    "groups": [
+      {
+        "groupName": "Group A",
+        "teams": [
+          {
+            "id": "team1",
+            "name": "Eagles",
+            "picture": "https://example.com/eagles.jpg",
+            "wins": 3,
+            "losses": 1,
+            "draws": 1,
+            "played": 5
+          },
+          {
+            "id": "team2",
+            "name": "Panthers",
+            "picture": "https://example.com/panthers.jpg",
+            "wins": 2,
+            "losses": 2,
+            "draws": 1,
+            "played": 5
+          },
+          {
+            "id": "team3",
+            "name": "Lions",
+            "picture": "https://example.com/lions.jpg",
+            "wins": 1,
+            "losses": 3,
+            "draws": 1,
+            "played": 5
+          },
+          {
+            "id": "team4",
+            "name": "Tigers",
+            "picture": "https://example.com/tigers.jpg",
+            "wins": 4,
+            "losses": 0,
+            "draws": 1,
+            "played": 5
+          }
+        ]
+      },
+      {
+        "groupName": "Group B",
+        "teams": [
+          {
+            "id": "team5",
+            "name": "Sharks",
+            "picture": "https://example.com/sharks.jpg",
+            "wins": 2,
+            "losses": 2,
+            "draws": 1,
+            "played": 5
+          },
+          {
+            "id": "team6",
+            "name": "Dolphins",
+            "picture": "https://example.com/dolphins.jpg",
+            "wins": 3,
+            "losses": 2,
+            "draws": 0,
+            "played": 5
+          },
+          {
+            "id": "team7",
+            "name": "Whales",
+            "picture": "https://example.com/whales.jpg",
+            "wins": 2,
+            "losses": 1,
+            "draws": 2,
+            "played": 5
+          },
+          {
+            "id": "team8",
+            "name": "Piranhas",
+            "picture": "https://example.com/piranhas.jpg",
+            "wins": 1,
+            "losses": 3,
+            "draws": 1,
+            "played": 5
+          }
+        ]
+      },
+      {
+        "groupName": "Group C",
+        "teams": [
+          {
+            "id": "team9",
+            "name": "Hawks",
+            "picture": "https://example.com/hawks.jpg",
+            "wins": 4,
+            "losses": 0,
+            "draws": 1,
+            "played": 5
+          },
+          {
+            "id": "team10",
+            "name": "Falcons",
+            "picture": "https://example.com/falcons.jpg",
+            "wins": 2,
+            "losses": 3,
+            "draws": 0,
+            "played": 5
+          },
+          {
+            "id": "team11",
+            "name": "Ravens",
+            "picture": "https://example.com/ravens.jpg",
+            "wins": 3,
+            "losses": 2,
+            "draws": 0,
+            "played": 5
+          },
+          {
+            "id": "team12",
+            "name": "Albatross",
+            "picture": "https://example.com/albatross.jpg",
+            "wins": 2,
+            "losses": 1,
+            "draws": 2,
+            "played": 5
+          }
+        ]
+      }
+    ]
+  }
+  
